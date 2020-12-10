@@ -1,6 +1,6 @@
 # Lint as: python3
-"""Find value of accumulator at start of loop
-Solution to https://adventofcode.com/2020/day/8
+"""Find weakness in encryption
+Solution to https://adventofcode.com/2020/day/9
 """
 
 from __future__ import absolute_import
